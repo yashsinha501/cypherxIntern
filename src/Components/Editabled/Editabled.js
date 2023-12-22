@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { X } from "react-feather";
 
-import "./Editable.css";
+import "./Editabled.css";
 
 function Editable(props) {
   const [isEditable, setIsEditable] = useState(false);
